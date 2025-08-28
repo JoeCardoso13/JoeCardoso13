@@ -34,7 +34,7 @@ My work on [Vispyr](https://vispyr.com) stems from a deeper passion for machine 
 [![Grafana](https://img.shields.io/badge/-Grafana-orange?&logo=grafana&logoColor=white)](https://grafana.com/oss/)
 [![OpenAI](https://img.shields.io/badge/-OpenAI-white?&logo=openai&logoColor=black)](https://openai.com/)
 [![Claude](https://img.shields.io/badge/-Claude-FA9579?&logo=claude&logoColor=white)](https://claude.ai/)
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21?&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21?&logo=huggingface&logoColor=yellow)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 ## Let's get to know each other
