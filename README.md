@@ -2,9 +2,12 @@
 
 I'm a full-stack developer with years of experience in Ruby and JavaScript, as well as additional proficiency in Python, TypeScript, and React. Most recently, I've helped create [Vispyr](https://vispyr.com), an open-source observability tool designed to make continuous profiling more accessible to developers.
 
-## Vispyr Motivation
+## Vispyr in a Nutshell
 
-My work on [Vispyr](https://vispyr.com) stems from a deeper passion for machine learning. As ML tools boost developer productivity, it’s becoming increasingly important to understand not just what our code does, but how it performs. Continuous profiling is the natural next step for observability, as AI and ML systems demand greater explainability. It delivers the fine-grained visibility developers need to move from guessing to truly understanding how their software behaves in production.
+🚀 One-command solution for continuous profiling  
+🔒 Runs on EC2 with secure networking, zero manual config  
+📊 Combines profiles + traditional telemetry for code-level insights  
+☁️ Automates AWS backend deployment
 
 <div>
   <img src="./vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
