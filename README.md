@@ -1,6 +1,6 @@
 # Hello, World! I’m Joe 🖥️
 
-I'm a full-stack developer with years of experience in Ruby and JavaScript, as well as additional proficiency in Python, TypeScript, and React. Most recently, I've helped create [Vispyr](https://vispyr.com), an open-source observability tool designed to make continuous profiling more accessible to developers.
+I'm a full-stack software engineer with years of experience in Ruby and JavaScript, as well as additional proficiency in Python, TypeScript, and React. Most recently, I've helped create [Vispyr](https://vispyr.com), an open-source observability tool designed to make continuous profiling more accessible to developers.
 
 ## Vispyr in a nutshell
 
