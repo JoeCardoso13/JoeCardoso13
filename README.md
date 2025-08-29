@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with years of experience in Ruby and JavaScript, as well as additional proficiency in Python, TypeScript, and React. Most recently, I've helped create [Vispyr](https://vispyr.com), an open-source observability tool designed to make continuous profiling more accessible to developers.
 
-## Vispyr in a Nutshell
+## Vispyr in a nutshell
 
 🚀 One-command solution for continuous profiling  
 🔒 Runs on EC2 with secure networking, zero manual config  
@@ -16,7 +16,7 @@ I'm a full-stack developer with years of experience in Ruby and JavaScript, as w
   </a>
 </div>
 
-## Check out my Tech-Stack
+## Check out my tech-stack
 
 [![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?&logo=aws&logoColor=white)](https://aws.amazon.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -40,6 +40,6 @@ I'm a full-stack developer with years of experience in Ruby and JavaScript, as w
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21?&logo=huggingface&logoColor=yellow)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
-## Let's get to know each other
+## Let's connect
 
 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/joe-cardoso-eng/) or shoot me an email at jow13_122@yahoo.com .
