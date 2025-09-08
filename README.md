@@ -10,7 +10,7 @@ I'm a full-stack software engineer with years of experience in Ruby and JavaScri
 ☁️ Automates AWS backend deployment
 
 <div>
-  <img src="./vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
+  <img src="./assets/vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
   <a href="https://www.vispyr.com" target="_blank">
     <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Personal Website">
   </a>
