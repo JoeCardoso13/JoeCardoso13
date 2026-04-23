@@ -2,19 +2,23 @@
 
 I'm a full-stack software engineer working at the edge of open source, developer tools, observability, and AI agents. Most recently, I've been building with [NimbleBrain](https://nimblebrain.ai/), contributing to [Mozilla Firefox](https://bugzilla.mozilla.org/user_profile?user_id=780254), and writing about the work on [joecardoso.dev](https://joecardoso.dev).
 
-## Current work
+## Highlights
 
 🧠 Building agentic contributor tooling and MCP server workflows at [NimbleBrain](https://nimblebrain.ai/)<br>
 🦊 Contributing [Firefox](https://bugzilla.mozilla.org/user_profile?user_id=780254) fixes across accessibility, DevTools, and browser internals<br>
 📊 Co-created [Vispyr](https://vispyr.com), combining profiles + traditional telemetry for code-level insights<br>
 ☁️ Automating cloud infrastructure and developer-tooling workflows
 
-<div>
-  <a href="https://www.vispyr.com" target="_blank">
-    <img src="./assets/vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
-  </a>
-  <strong>Vispyr</strong>
-</div>
+## Vispyr in a nutshell
+
+<a href="https://www.vispyr.com" target="_blank">
+  <img src="./assets/vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
+</a>
+
+🚀 One-command solution for continuous profiling<br>
+🔒 Runs on EC2 with secure networking, zero manual config<br>
+📊 Combines profiles + traditional telemetry for code-level insights<br>
+☁️ Automates AWS backend deployment
 
 ## Check out my tech-stack
 
