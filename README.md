@@ -13,6 +13,7 @@ I'm a full-stack software engineer working at the edge of open source, developer
   <a href="https://www.vispyr.com" target="_blank">
     <img src="./assets/vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
   </a>
+  <strong>Vispyr</strong>
 </div>
 
 ## Check out my tech-stack
