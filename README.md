@@ -11,14 +11,16 @@ I'm a full-stack software engineer working at the edge of open source, developer
 
 ## Vispyr in a nutshell
 
-<a href="https://www.vispyr.com" target="_blank">
-  <img src="./assets/vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
-</a>
-
 🚀 One-command solution for continuous profiling<br>
 🔒 Runs on EC2 with secure networking, zero manual config<br>
 📊 Combines profiles + traditional telemetry for code-level insights<br>
 ☁️ Automates AWS backend deployment
+
+<div>
+  <a href="https://www.vispyr.com" target="_blank">
+    <img src="./assets/vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
+  </a>
+</div>
 
 ## Check out my tech-stack
 
