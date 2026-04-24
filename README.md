@@ -4,8 +4,8 @@ I'm a full-stack software engineer working at the edge of open source, developer
 
 ## Current Projects
 
-- AI Chief of Staff
-- Ask My Resume
+- [AI Chief of Staff](https://github.com/JoeCardoso13/ai-chief-of-staff)
+- [Ask My Resume](https://github.com/JoeCardoso13/ask-my-resume)
 - Brush Up Tutors
 - Compact Threshold Skill
 - Conversation Tree
