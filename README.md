@@ -6,15 +6,15 @@ I'm a full-stack software engineer working at the edge of open source, developer
 
 - [AI Chief of Staff](https://github.com/JoeCardoso13/ai-chief-of-staff)
 - [Ask My Resume](https://github.com/JoeCardoso13/ask-my-resume)
-- Brush Up Tutors
-- Compact Threshold Skill
-- Conversation Tree
-- Diary Bot
-- Drift Checker
-- joedevflow
-- Twenty One Web
-- Vortex
-- WSL2 Health Monitor
+- [Brush Up Tutors](https://github.com/JoeCardoso13/brush-up-backend)
+- [Compact Threshold Skill](https://github.com/JoeCardoso13/compact-threshold-skill)
+- [Conversation Tree](https://github.com/JoeCardoso13/conversation-tree)
+- [Diary Bot](https://github.com/JoeCardoso13/diary_bot)
+- [Drift Checker](https://github.com/JoeCardoso13/drift-checker)
+- [joedevflow](https://github.com/JoeCardoso13/joedevflow)
+- [Twenty One Web](https://github.com/JoeCardoso13/twenty-one-web)
+- [Vortex](https://github.com/JoeCardoso13/Vortex)
+- [WSL2 Health Monitor](https://github.com/JoeCardoso13/wsl2-health-monitor)
 
 ## NimbleBrain
 
