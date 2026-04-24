@@ -4,17 +4,17 @@ I'm a full-stack software engineer working at the edge of open source, developer
 
 ## Current Projects
 
-- [AI Chief of Staff](https://github.com/JoeCardoso13/ai-chief-of-staff)
-- [Ask My Resume](https://github.com/JoeCardoso13/ask-my-resume)
-- [Brush Up Tutors](https://github.com/JoeCardoso13/brush-up-backend)
-- [Compact Threshold Skill](https://github.com/JoeCardoso13/compact-threshold-skill)
-- [Conversation Tree](https://github.com/JoeCardoso13/conversation-tree)
-- [Diary Bot](https://github.com/JoeCardoso13/diary_bot)
-- [Drift Checker](https://github.com/JoeCardoso13/drift-checker)
-- [joedevflow](https://github.com/JoeCardoso13/joedevflow)
-- [Twenty One Web](https://github.com/JoeCardoso13/twenty-one-web)
-- [Vortex](https://github.com/JoeCardoso13/Vortex)
-- [WSL2 Health Monitor](https://github.com/JoeCardoso13/wsl2-health-monitor)
+- 🤖 **[AI Chief of Staff](https://github.com/JoeCardoso13/ai-chief-of-staff)** - Agentic orchestration layer for personal productivity
+- 💼 **[Ask My Resume](https://github.com/JoeCardoso13/ask-my-resume)** - Chat interface for employers and recruiters to explore my experience, grounded on real work (MCP-native)
+- 📚 **[Brush Up Tutors](https://github.com/JoeCardoso13/brush-up-backend)** - Platform connecting students with tutors for technical interview prep
+- 🗜️ **[Compact Threshold Skill](https://github.com/JoeCardoso13/compact-threshold-skill)** - Claude Code skill that nudges you to /compact before context bloat hits
+- 🌳 **[Conversation Tree](https://github.com/JoeCardoso13/conversation-tree)** - Visual node-based UI for navigating and branching Claude Code sessions
+- 📔 **[Diary Bot](https://github.com/JoeCardoso13/diary_bot)** - RAG assistant that answers questions about your personal diary
+- 🔍 **[Drift Checker](https://github.com/JoeCardoso13/drift-checker)** - GitHub Marketplace action that flags CLAUDE.md, AGENTS.md, and README.md drift on every PR
+- ⚙️ **[joedevflow](https://github.com/JoeCardoso13/joedevflow)** - Agentic development workflow skill for Claude Code
+- 🃏 **[Twenty One Web](https://github.com/JoeCardoso13/twenty-one-web)** - Browser-based card game 21 built with Ruby
+- 🌀 **[Vortex](https://github.com/JoeCardoso13/Vortex)** - HTTP endpoint generator that captures and visualizes webhook metadata
+- 🖥️ **[WSL2 Health Monitor](https://github.com/JoeCardoso13/wsl2-health-monitor)** - Periodic agent that audits your WSL2 environment for resource bloat, on your terms
 
 ## NimbleBrain
 
