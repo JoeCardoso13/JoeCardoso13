@@ -12,6 +12,7 @@ I'm a full-stack software engineer working at the edge of open source, developer
 - 📔 **[Diary Bot](https://github.com/JoeCardoso13/diary_bot)** - RAG assistant that answers questions about your personal diary
 - 🔍 **[Drift Checker](https://github.com/JoeCardoso13/drift-checker)** - GitHub Marketplace action that flags CLAUDE.md, AGENTS.md, and README.md drift on every PR
 - ⚙️ **[joedevflow](https://github.com/JoeCardoso13/joedevflow)** - Agentic development workflow skill for Claude Code
+- 🔭 **[openLab Watcher](https://github.com/JoeCardoso13/openlab-watcher)** - Agent that watches openLab commits and emails AI-generated consistency notes
 - 🃏 **[Twenty One Web](https://github.com/JoeCardoso13/twenty-one-web)** - Browser-based card game 21 built with Ruby
 - 🌀 **[Vortex](https://github.com/JoeCardoso13/Vortex)** - HTTP endpoint generator that captures and visualizes webhook metadata
 - 🖥️ **[WSL2 Health Monitor](https://github.com/JoeCardoso13/wsl2-health-monitor)** - Periodic agent that audits your WSL2 environment for resource bloat, on your terms
