@@ -6,6 +6,7 @@ I'm a full-stack software engineer working at the edge of open source, developer
 
 - 🤖 **[AI Chief of Staff](https://github.com/JoeCardoso13/ai-chief-of-staff)** - Agentic orchestration layer for personal productivity
 - 💼 **[Ask My Resume](https://github.com/JoeCardoso13/ask-my-resume)** - Chat interface for employers and recruiters to explore my experience, grounded on real work (MCP-native)
+- 🎤 **[Behavioral Interview Simulator](https://github.com/JoeCardoso13/behavioral-interview-simulator)** - Mock behavioral interviewer built from your CV and the job you're applying for, with STAR-scored coaching
 - 📚 **[Brush Up Tutors](https://github.com/JoeCardoso13/brush-up-backend)** - Platform connecting students with tutors for technical interview prep
 - 🗜️ **[Compact Threshold Skill](https://github.com/JoeCardoso13/compact-threshold-skill)** - Claude Code skill that nudges you to /compact before context bloat hits
 - 🌳 **[Conversation Tree](https://github.com/JoeCardoso13/conversation-tree)** - Visual node-based UI for navigating and branching Claude Code sessions
